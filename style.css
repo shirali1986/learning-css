@@ -1,0 +1,21 @@
+.myheadertext {
+    font-size: 50px;
+    color: hotpink;
+    text-align: center;
+    
+}
+
+.rhino {
+    
+    height: 500px;
+    border-width: 40px;
+    -o-border-image: fill;
+    border-style: dotted;
+    border-color: aqua;
+    margin-left: 750px;
+      display: block;
+  margin: auto;
+  width: 500px;
+}
+
+p {text-align: center; }
